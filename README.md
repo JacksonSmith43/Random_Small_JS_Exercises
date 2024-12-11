@@ -1,1 +1,1 @@
-# Random_Small_JS_Exercises
+Promts from: https://www.reacterry.com/portal/challenges 
