@@ -1,10 +1,32 @@
 body {
     background-color: gray;
+    font-weight: bold;
+    font-family: sans-serif;
 }
 
 #user-input-whitespace-container {
     text-align: center;
     top: 50%;
-    left: 50%;
+    left: 45%;
     position: absolute;
+
+    outline: 0.25rem solid blue;
+    width: 30rem;
+    height: 10rem;
+}
+
+#user-input-whitespace {
+    width: 15rem;
+}
+
+#reverse-array-container {
+    outline: 0.25rem solid red;
+    border-radius: 12rem;
+    width: 32rem;
+    height: 12rem;
+    text-align: center;
+
+    margin-top: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 4rem;
 }
